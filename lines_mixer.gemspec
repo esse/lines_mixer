@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = LinesMixer::VERSION
   spec.authors       = ["Piotr Szmielew"]
   spec.email         = ["p.szmielew@ava.waw.pl"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Simple gem for mixing lines in strings (created for Rails Girls Poznań).}
+  spec.description   = %q{Simple gem for mixing lines in strings (created for Rails Girls Poznań).}
   spec.homepage      = ""
   spec.license       = "MIT"
 

@@ -1,6 +1,6 @@
 # LinesMixer
 
-Simple gem for mixing lines in strings (created for Rails Girls Poznań)
+Simple gem for mixing lines in strings (created for Rails Girls Poznań).
 
 ## Installation
 
