@@ -18,9 +18,9 @@ Or install it yourself as:
 
 ## Usage
 
-"multi
+```"multi
 line
-string".mix\_lines(_optional parameter of how many lines in one mixing segment_)
+string".mix\_lines(_optional parameter of how many lines in one mixing segment_)```
 
 ## Contributing
 
