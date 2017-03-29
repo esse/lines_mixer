@@ -21,7 +21,7 @@ Or install it yourself as:
 ```
 "multi
 line
-string".mix\_lines(_optional parameter of how many lines in one mixing segment_)
+string".mix_lines(_optional parameter of how many lines in one mixing segment_)
 ```
 
 ## Contributing
